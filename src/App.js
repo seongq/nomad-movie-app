@@ -12,8 +12,10 @@ function App() {
 	return (
 		<div>
 			<h1>Hello</h1>
-			<Food lunch="ramen" dinner="samgyubsal" />
-			<Food lunch="haksik" dinner="buldak" />
+			{[
+				<Food lunch="ramen" dinner="samgyubsal" />,
+				<Food lunch="haksik" dinner="buldak" />,
+			]}
 		</div>
 	);
 }
