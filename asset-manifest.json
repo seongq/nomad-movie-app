@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nomad-movie-app/static/css/main.f0b02b45.chunk.css",
+    "main.js": "/nomad-movie-app/static/js/main.f5ca5b51.chunk.js",
+    "main.js.map": "/nomad-movie-app/static/js/main.f5ca5b51.chunk.js.map",
+    "runtime-main.js": "/nomad-movie-app/static/js/runtime-main.d57cd7d9.js",
+    "runtime-main.js.map": "/nomad-movie-app/static/js/runtime-main.d57cd7d9.js.map",
+    "static/js/2.7efe16ba.chunk.js": "/nomad-movie-app/static/js/2.7efe16ba.chunk.js",
+    "static/js/2.7efe16ba.chunk.js.map": "/nomad-movie-app/static/js/2.7efe16ba.chunk.js.map",
+    "index.html": "/nomad-movie-app/index.html",
+    "precache-manifest.4e73b593c8f7c8728eaeebf71300f295.js": "/nomad-movie-app/precache-manifest.4e73b593c8f7c8728eaeebf71300f295.js",
+    "service-worker.js": "/nomad-movie-app/service-worker.js",
+    "static/css/main.f0b02b45.chunk.css.map": "/nomad-movie-app/static/css/main.f0b02b45.chunk.css.map",
+    "static/js/2.7efe16ba.chunk.js.LICENSE.txt": "/nomad-movie-app/static/js/2.7efe16ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57cd7d9.js",
+    "static/js/2.7efe16ba.chunk.js",
+    "static/css/main.f0b02b45.chunk.css",
+    "static/js/main.f5ca5b51.chunk.js"
+  ]
+}
