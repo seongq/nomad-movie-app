@@ -6,16 +6,24 @@ class App extends React.Component {
 		count: 0,
 	};
 
-	add() {
-		console.log("add");
-		// this.setState;
-	}
-	minus() {
-		console.log("minus");
-		// this.setState.count += 1;
-	}
+	add = () => {
+		this.setState((current) => ({ count: current.count + 1 }));
+	};
 
+	minus = () => {
+		this.setState((current) => ({ count: current.count - 1 }));
+	};
+	componentDidMount = () => {
+		console.log("mounted");
+	};
+	componentDidUpdate = () => {
+		console.log("updated");
+	};
+	componentWillMount = () => {
+		console.log("disapper");
+	};
 	render() {
+		console.log("I'm rendered");
 		return (
 			<div>
 				<h1>This number is {this.state.count} </h1>
